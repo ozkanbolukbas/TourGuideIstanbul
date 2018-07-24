@@ -1,0 +1,209 @@
+<resources>
+    <string name="app_name">Tour Guide Istanbul</string>
+
+    <!-- Categories -->
+    <string name="category_historical_place">Historical Place</string>
+    <string name="category_must_visit">Must Visit</string>
+    <string name="category_entertainment">Entertainment</string>
+    <string name="category_restaurants">Restaurants</string>
+    <string name="category_hotels">Hotels</string>
+
+    <!-- Historical Places -->
+    <string name="hagia_sophia">Hagia Sophia</string>
+    <string name="hagia_sophia_info">
+        Often referred to as the eighth wonder of the World, the Hagia
+        Sophia (Ayasofya in Turkish) in Sultanahmet is easily one of Istanbul\'s most impressive
+        sights. It also must have one of the most turbulent histories of any museum in the world.
+    </string>
+    <string name="hagia_sophia_address">Sultan Ahmet Mahallesi, Ayasofya Meydanı, 34122 Fatih/İstanbul</string>
+    <string name="blue_mosque">Blue Mosque</string>
+    <string name="blue_mosque_info">
+        The Blue Mosque was built between 1609 and 1616, by the architect Mehmet Ağa, instructed by
+        Sultan Ahmet I. It was designed as an imperial show of strength to complement the imposing
+        Hagia Sophia, which faces it across Sultanahmet Square. It is dubbed the Blue Mosque because
+        of over 20,000 handmade ceramic Iznik tiles that decorate the interior, featuring many
+        different tulip, rose, carnation, and lily designs, well lit by 260 windows.
+    </string>
+    <string name="blue_mosque_address">Sultan Ahmet Mahallesi, Atmeydanı Cd. No:7, 34122 Fatih/İstanbul</string>
+    <string name="rumeli_fortress">The Rumeli Fortress</string>
+    <string name="rumeli_fortress_info">
+        Rumeli Castle (Rumeli Hisarı) is an Ottoman fortress dating to 1452. It was built by Ottoman
+        sultan Mehmed II (Mehmed the Conqueror) in preparation of the conquest of Constantinople.
+        The castle is situated on the shore of the Bosphorus Strait at its narrowest point with approximately
+        660 meters. It is just opposite of Anadolu Castle (Anadolu Hisarı) that is another Ottoman castle
+        built in 1394 by Bayezid I. Both Anadolu Castle and Rumeli Castle were built by Ottoman sultans
+        in order to prevent military and economic aid to the Byzantine Empire coming from the north, Black Sea.
+        Thus, Bosphorus strait connects Black Sea with Marmara Sea.
+    </string>
+    <string name="rumeli_fortress_address">Rumeli Hisarı, Yahya Kemal Cd., 34470 Sarıyer/İstanbul</string>
+    <string name="basilica_cistern">Basilica Cistern</string>
+    <string name="basilica_cistern_info">
+        Known locally as Yerebatan Sarayi (meaning Sunken Palace) or Yerebatan Sarnici (Sunken Cistern),
+        this underground water cistern was the major water reservoir of Constantinople. The water was
+        transported from the Belgrade Forest by the immense Byzantine aqueducts.
+    </string>
+    <string name="basilica_cistern_address">Alemdar Mh., Yerebatan Cd. 1/3, 34410 Fatih/İstanbul</string>
+    <string name="dolmabahce_palace">The Dolmabahce Palace</string>
+    <string name="dolmabahce_palace_info">
+        The palace was commissioned by Sultan Abdülmecid (who decided there should be a more European
+        palace than Topkapi) and designed by Armenian architect Karabet Balian and his son Nikoğos Balian.
+        It is an ostentatious blend architectural styles including Baroque, Rococo, Neoclassical and
+        modern Ottoman, dripping in luxury.
+    </string>
+    <string name="dolmabahce_palace_address">Vişnezade Mahallesi, Dolmabahçe Cd., 34357 Beşiktaş/İstanbul</string>
+    <string name="archaeology_museum">Istanbul Archaeology Museums</string>
+    <string name="archaeology_museum_info">
+        The İstanbul Arkeoloji Müzesi (Istanbul Archaeological Museums) complex is one of the most
+        underrated museums of Istanbul, and actually consists of three museums: the Archaeology Museum,
+        the Ancient Orient Museum, and the Islamic Art Museum. It has founded by master painter, Osman
+        Hamdi Bey in 1875, in a response to the removal of many of Turkey’s ancient artefacts destined
+        for European museums. There is a wealth of treasures on show from the Assyrian, Hittite, Egyptian,
+        Greek, Roman, Byzantine and Ottoman civilizations. The below are a few of the collections and items not to miss.
+    </string>
+    <string name="archaeology_museum_address">Cankurtaran Mh., 34122 Fatih/İstanbul</string>
+
+    <!-- Must Visit -->
+    <string name="maidens_tower">Maiden\'s Tower</string>
+    <string name="maidens_tower_info">
+        This unique tower with a history dating back to 2500 years,
+        has eye witnessed everything that the city has encountered throughout the history.
+        This tower has been erected during the ancient age and constructed by renovations from the ages of the Ancient Rome,
+        the Byzantine Empire, and the Ottoman Empire, the tower has reached to present time with its mysterious appearance.
+    </string>
+    <string name="maidens_tower_address">Address: The Maiden\’s Tower is located 150 200 meters off
+        the shore of the Salacak district in Üsküdar.
+    </string>
+    <string name="haydarpasa">Haydarpaşa Garı</string>
+    <string name="haydarpasa_info">
+        Haydarpaşa Garı, Istanbul\'s Teutonic pseudo-castle railway station
+        on the Asian shore of the Bosphorus was the terminus for suburban trains and trains to and
+        from Anatolia (Asian Turkey) for over a century.
+    </string>
+    <string name="haydarpasa_address">Rasimpaşa Mahallesi, 34716 Kadıköy/İstanbulı</string>
+    <string name="istiklal_street">Istiklal Cd., Bryoğlu/ İsstanbul</string>
+    <string name="istiklal_street_info">
+        Istiklal is both local and touristic center of Istanbul. It\'s the heart of the city.
+        Many people have a love/hate relationship with the ever-bustling (Istiklal Street or Istiklal
+        Avenue – İstiklal Caddesi in Turkish) that runs from Taksim Square nearly all the way to the
+        landmark Galata Tower. Although it is the beating heart of the city, the three million people
+        that pass it every day, can make it rather challenging to traverse. Yet it serves as a microcosm
+        of Istanbul itself and although chains and fast food joints are starting to edge out the more
+        old fashioned shops, there’s still traces of old Istanbul here.
+    </string>
+    <string name="istiklal_street_address">İstiklal Street</string>
+    <string name="moda_tea_garden">Moda Tea Garden</string>
+    <string name="moda_tea_garden_info">
+        A sprawling tea garden perched on a hill above the Bosphorus,
+        Moda’s tea garden is one of the city’s most popular destinations. A scenic ferry boat ride away
+        from the bustling hubs of the historic peninsula, Galata and Taksim, Moda and its environs are
+        a welcome alternative to Istanbul’s busy central district and its tea garden is perhaps one of
+        the most serene parts of inner-city Istanbul.
+    </string>
+    <string name="moda_tea_garden_address">Caferağa Mahallesi, Park İçi Yolu, 34710 Kadıköy/İstanbul</string>
+    <string name="ortakoy">Ortaköy</string>
+    <string name="ortakoy_info">
+        Seen from the Bosphorus cruise, the Bosphorus coastline on the European side resembles a string
+        of villages, each with their own individual character and attractions, and indeed that’s just
+        what it was. Located between down-to-earth Beşiktaş and chichi Kuruçeşme, Ortakoy does what its
+        name suggests and positions itself somewhere in the middle (orta köy means ‘middle village’ in Turkish).
+    </string>
+    <string name="ortakoy_address">Ortaköy Mh. Beşiktaş/İstanbul</string>
+    <string name="miniaturk">Miniatürk</string>
+    <string name="miniaturk_info">
+        Ever wanted to see the sights of Turkey, but don’t have the time? Maybe you need some help
+        preparing your Turkish itinerary? Then perhaps Miniaturk is the answer.Opened in 2002 on the
+        Golden Horn, the world’s largest miniature park contains 105 miniature models in 1/25th scale
+        of well known Turkish historical sites in an open air expanse. Covering an area of 60,000m2,
+        Miniaturk offers dwarfed versions of famous sights including Hagia Sophia , Topkapi Palace, 
+        Blue Mosque, Nemrut Dag, Artemis Temple and even a walkable Bosphorus Bridge.There is a c
+        oin-operated cable boat which travels across a pond and a miniature train.
+    </string>
+    <string name="miniaturk_address">Sütlüce Mahallesi, İmrahor Cd. 7/1, 34445 Beyoğlu/İstanbul</string>
+
+    <!-- Entertainment -->
+    <string name="sortie_night_club">Sortie Night Club</string>
+    <string name="sortie_night_club_info">
+        Sortie, means ‘Exit’ in French, is a great place to let it
+        all hang out. ‘Togetherness’ is the key word in our 3500-square meter venue. Since 2012 we
+        began to serve 12 months of the year and host 7 restaurants that represent distinguished examples
+        of the world cuisine. Sortie Club offers the latest trends in the world of entertainment to you
+        at the same time, Dj Tarık SARUL’s the coordination of the music continues to entertain for 12 months.
+    </string>
+    <string name="sortie_night_club_address">Muallim Naci Cad. No: 54 Kuruçeşme İSTANBUL</string>
+    <string name="ulus_29">Ulus 29</string>
+    <string name="ulus_29_info">
+        On the sea side of Ulus, inside Ulus Park, Ulus 29 is chosen by many locals as an example of
+        Istanbul’s best defining venues. The one-of-a-kind water view can be seen from inside Ulus 29.
+        The menu is a complilation of dishes from worldwide cuisines; with different flavours from
+        yoghurt kebab to lahmacun, sushi to peking duck. While listening to music from around the world,
+        you may opt to have a glass of French wine with your meal.
+    </string>
+    <string name="ulus_29_address">Kuruçeşme Mahallesi, 34345 Beşiktaş/İstanbul</string>
+    <string name="jolly_joker_istanbul">Jolly Joker Istanbul</string>
+    <string name="jolly_joker_istanbul_info">
+        Located centrally in Beyoğlu, Jolly Joker Beyoglu spans over 1000 m2 and is able to host up to 800 people.
+        In terms of technique, acoustics and service, Jolly Joker Beyoglu is one of Beyoğlu\'s top venues. Jolly Joker
+        Beyoglu hosts live concerts focusing mainly on big names in the Turkish music scene.
+    </string>
+    <string name="jolly_joker_istanbul_address">Hüseyinağa Mahallesi, Balo Sk. No:22, 34435 Beyoğlu/İstanbul</string>
+
+    <!-- Restaurants -->
+    <string name="lacivert_restaurant">Lacivert Restaurant</string>
+    <string name="lacivert_restaurant_info">
+        Lacivert marries the rich and exquisite flavours of the Mediterranean cuisine which include centuries
+        of culture and taste, at Istanbul’s most romantic and picturesque coastal view, on the one and only
+        Bosphorus. Located within a historic seaside-mansion, Lacivert has become a true Bosphorus-classic,
+        serving guests since 1999. The idyllic Lacivert terrace becomes an ideal spot during the summer season,
+        hosting the perfect balance between the summer Sun and the warm sea-breeze. During the winter season,
+        Lacivert remains as charming by entertaining guests in saloons over-looking a sentimental sea-front view of the Bosphorus.
+    </string>
+    <string name="lacivert_restaurant_address">Anadolu Hisarı Mh., Körfez Cd. 57/A, 34410 Beykoz/İstanbul</string>
+    <string name="leb_i_derya">Leb-i Derya</string>
+    <string name="leb_i_derya_info">
+        Leb-i Derya is located on the top floor of an unassuming apartment block on
+        the hillside road of Kumbaracı, just off the bustling İstiklal Caddesi. From the street, the entrance is
+        located at the foot of a somewhat-dilapidated building and you will have to take two flights of stairs and
+        a lift to reach it, but you will not be disappointed.
+    </string>
+    <string name="leb_i_derya_address">Şahkulu Mah., Kumbaracı Ykş. No:57, 34425 Tünel/Beyoğlu/İstanbul</string>
+    <string name="kasibeyaz_bosphorus">Kaşıbeyaz Bosphorus</string>
+    <string name="kasibeyaz_bosphorus_info">Kaşıbeyaz offers Istanbul diners a very rare thing indeed – a seaside restaurant that does not serve seafood. Instead, Kaşıbeyaz is a kebab house specializing in traditional Turkish cuisine from Gaziantep. It has become very popular with locals and visiting tourists who want to enjoy traditional Turkish food with a wonderful view of the Bosphorus.</string>
+    <string name="kasibeyaz_bosphorus_address">Yeniköy Mahallesi, Köybaşı Cd. No:10, 34464 Sarıyer/İstanbul</string>
+
+    <!-- hotels -->
+    <string name="hilton_istanbul_bosphorus">Hilton Istanbul Bosphorus</string>
+    <string name="hilton_istanbul_bosphorus_info">
+        Hilton Istanbul Bosphorus is Turkey\'s first modern hotel built from the ground up in the
+        aftermath of World War II in Europe. Currently, it is also titled with Hilton Hotels longest-serving
+        member outside the United States.
+        The Hilton Istanbul Bosphorus contains 499 air-conditioned rooms. In addition, the hotel offers
+        158 executive rooms and 13 suites. For privileged guests, an executive lounge is reserved.
+        There are 27 meeting rooms, open-air localities and a convention and exhibition center capable
+        of holding 3,000 people. The business center is at 24/7 service. For wedding ceremonies and celebrations,
+        the hotel garden offers place for up to 300 guests on weekdays.
+    </string>
+    <string name="hilton_istanbul_bosphorus_address">Harbiye Mahallesi, Cumhuriyet Cd. No:50, 34367 Şişli/İstanbul</string>
+    <string name="swissotel_the_bosphorus">Swissotel The Bosphorus</string>
+    <string name="swissotel_the_bosphorus_info">
+        Swissotel The Bosphorus, Istanbul is a five-star luxury hotel right in the centre of Istanbul
+        on the European banks of the Bosphorus. Nestled within 65 acres of historical gardens with
+        world-class shopping and vibrant nightlife nearby, it offers 497 guest rooms and suites,
+        featuring state-of-the-art technology and exclusive amenities. Last but not least, the award-winning
+        Purovel Spa and Sport offers luxurious holistic spa treatments from all over the world.
+    </string>
+    <string name="swissotel_the_bosphorus_address">Vişnezade Mahallesi, Acısu Sokaği No:19, 34357 Beşiktaş/İstanbul</string>
+    <string name="istanbul_marriot_hotel">İstanbul Marriott Hotel</string>
+    <string name="istanbul_marriot_hotel_info">
+        Offering an indoor pool, sauna, Turkish bath and a fitness centre, Istanbul Marriott Hotel Sisli
+        is located in one of Istanbul\'s commerce centres.
+    </string>
+    <string name="istanbul_marriot_hotel_address">Merkez Mahallesi, Abide-i Hürriyet Cd No:142, 34381 Şişli/İstanbul</string>
+    <string name="doubletree_by_hilton">DoubleTree by Hilton Istanbul - Moda</string>
+    <string name="doubletree_by_hilton_info">
+        With a beautiful view of the sea, the hotel is close to the ferry dock that allows guests to
+        go from the quiet residential Moda area to the bustle of the European side.
+    </string>
+    <string name="doubletree_by_hilton_address">Caferağa Mahallesi, Albay Faik Sözdener Cd. No:31, 34710 Kadıköy/İstanbul
+</string>
+
+</resources>
